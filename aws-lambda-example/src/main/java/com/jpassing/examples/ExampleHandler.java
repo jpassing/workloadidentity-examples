@@ -28,6 +28,7 @@ import com.google.auth.http.HttpCredentialsAdapter;
 import com.google.auth.oauth2.AwsCredentialSource;
 import com.google.auth.oauth2.AwsCredentials;
 import com.google.auth.oauth2.ExternalAccountCredentials;
+import com.google.auth.oauth2.GoogleCredentials;
 import com.google.common.base.Preconditions;
 
 import java.io.IOException;
